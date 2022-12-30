@@ -31,3 +31,6 @@ mim_msgs:
 googletest:
     path: src/
     origin: git@github.com:google/googletest
+dynamic_graph:
+    path: src/
+    origin: git@github.com:stack-of-tasks/dynamic-graph.git
