@@ -1,2 +1,2 @@
-FRANKA_DGM:
-    repos: ['dynamic_graph', 'dynamic_graph_manager', 'yaml_utils', 'pybind11', 'serialization_utils', 'shared_memory', 'dynamic_graph_head', 'real_time_tools', 'mpi_cmake_modules', 'dgm_franka', 'mim_msgs', 'googletest']
+DGM_FRANKA:
+    repos: ['dynamic_graph_manager', 'mpi_cmake_modules', 'mim_msgs', 'lcm', 'real_time_tools', 'googletest', 'dynamic_graph_head', 'yaml_utils', 'pybind11', 'shared_memory', 'serialization_utils', 'dgm_franka', 'dynamic-graph-python']
