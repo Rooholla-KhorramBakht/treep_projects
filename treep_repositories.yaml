@@ -1,0 +1,33 @@
+dynamic_graph_manager:
+    path: src/
+    origin: git@github.com:Rooholla-KhorramBakht/dynamic_graph_manager.git
+yaml_utils:
+    path: src/
+    origin: git@github.com:machines-in-motion/yaml_utils
+pybind11:
+    path: src/
+    origin: git@github.com:pybind/pybind11
+serialization_utils:
+    path: src/
+    origin: git@github.com:MPI-IS/serialization_utils
+shared_memory:
+    path: src/
+    origin: git@github.com:machines-in-motion/shared_memory
+dynamic_graph_head:
+    path: src/
+    origin: git@github.com:Rooholla-KhorramBakht/dynamic_graph_head.git
+real_time_tools:
+    path: src/
+    origin: git@github.com:machines-in-motion/real_time_tools
+mpi_cmake_modules:
+    path: src/
+    origin: git@github.com:machines-in-motion/mpi_cmake_modules
+dgm_franka:
+    path: src/
+    origin: git@github.com:Rooholla-KhorramBakht/dgm_franka.git
+mim_msgs:
+    path: src/
+    origin: git@github.com:machines-in-motion/mim_msgs
+googletest:
+    path: src/
+    origin: git@github.com:google/googletest
