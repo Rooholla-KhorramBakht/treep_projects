@@ -1,15 +1,3 @@
-dynamic_graph_manager:
-    path: src/
-    origin: git@github.com:Rooholla-KhorramBakht/dynamic_graph_manager.git
-    branch: master
-mpi_cmake_modules:
-    path: src/
-    origin: git@github.com:machines-in-motion/mpi_cmake_modules
-    branch: master
-mim_msgs:
-    path: src/
-    origin: git@github.com:machines-in-motion/mim_msgs
-    branch: master
 lcm:
     path: src/
     origin: git@github.com:lcm-proj/lcm.git
@@ -22,17 +10,37 @@ googletest:
     path: src/
     origin: git@github.com:google/googletest
     branch: main
-dynamic_graph_head:
-    path: src/
-    origin: git@github.com:Rooholla-KhorramBakht/dynamic_graph_head.git
-    branch: main
 yaml_utils:
     path: src/
     origin: git@github.com:machines-in-motion/yaml_utils
     branch: master
+dynamic-graph:
+    path: src/
+    origin: https://github.com/stack-of-tasks/dynamic-graph.git
+    branch: master
+mim_msgs:
+    path: src/
+    origin: git@github.com:machines-in-motion/mim_msgs
+    branch: master
 pybind11:
     path: src/
     origin: git@github.com:pybind/pybind11
+    branch: master
+dynamic_graph_manager:
+    path: src/
+    origin: git@github.com:Rooholla-KhorramBakht/dynamic_graph_manager.git
+    branch: master
+mpi_cmake_modules:
+    path: src/
+    origin: git@github.com:machines-in-motion/mpi_cmake_modules
+    branch: master
+eigenpy:
+    path: src/
+    origin: git@github.com:stack-of-tasks/eigenpy.git
+    branch: master
+dynamic-graph-python:
+    path: src/
+    origin: git@github.com:stack-of-tasks/dynamic-graph-python.git
     branch: master
 shared_memory:
     path: src/
@@ -41,12 +49,4 @@ shared_memory:
 serialization_utils:
     path: src/
     origin: git@github.com:MPI-IS/serialization_utils
-    branch: master
-dgm_franka:
-    path: src/
-    origin: git@github.com:Rooholla-KhorramBakht/dgm_franka.git
-    branch: main
-dynamic-graph-python:
-    path: src/
-    origin: git@github.com:stack-of-tasks/dynamic-graph-python.git
     branch: master
