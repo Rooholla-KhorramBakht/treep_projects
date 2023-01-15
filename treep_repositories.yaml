@@ -1,18 +1,18 @@
 lcm:
     path: src/
-    origin: git@github.com:lcm-proj/lcm.git
+    origin: https://github.com/lcm-proj/lcm.git
     branch: master
 real_time_tools:
     path: src/
-    origin: git@github.com:machines-in-motion/real_time_tools
+    origin: https://github.com/machines-in-motion/real_time_tools.git
     branch: master
 googletest:
     path: src/
-    origin: git@github.com:google/googletest
+    origin: https://github.com/google/googletest.git
     branch: main
 yaml_utils:
     path: src/
-    origin: git@github.com:machines-in-motion/yaml_utils
+    origin: https://github.com/machines-in-motion/yaml_utils.git
     branch: master
 dynamic-graph:
     path: src/
@@ -20,33 +20,33 @@ dynamic-graph:
     branch: master
 mim_msgs:
     path: src/
-    origin: git@github.com:machines-in-motion/mim_msgs
+    origin: https://github.com/machines-in-motion/mim_msgs.git
     branch: master
 pybind11:
     path: src/
-    origin: git@github.com:pybind/pybind11
+    origin: https://github.com/pybind/pybind11.git
     branch: master
 dynamic_graph_manager:
     path: src/
-    origin: git@github.com:Rooholla-KhorramBakht/dynamic_graph_manager.git
+    origin: https://github.com/Rooholla-KhorramBakht/dynamic_graph_manager.git
     branch: master
 mpi_cmake_modules:
     path: src/
-    origin: git@github.com:machines-in-motion/mpi_cmake_modules
+    origin: https://github.com/machines-in-motion/mpi_cmake_modules.git
     branch: master
 eigenpy:
     path: src/
-    origin: git@github.com:stack-of-tasks/eigenpy.git
+    origin: https://github.com/stack-of-tasks/eigenpy.git
     branch: master
 dynamic-graph-python:
     path: src/
-    origin: git@github.com:stack-of-tasks/dynamic-graph-python.git
+    origin: https://github.com/stack-of-tasks/dynamic-graph-python.git
     branch: master
 shared_memory:
     path: src/
-    origin: git@github.com:machines-in-motion/shared_memory
+    origin: https://github.com/machines-in-motion/shared_memory.git
     branch: master
 serialization_utils:
     path: src/
-    origin: git@github.com:MPI-IS/serialization_utils
+    origin: https://github.com/MPI-IS/serialization_utils.git
     branch: master
